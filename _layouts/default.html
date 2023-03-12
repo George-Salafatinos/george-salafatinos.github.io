@@ -22,9 +22,6 @@
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
-
-      </header>
-      <section>
         <nav class="menu menu--circle">
           <a class="menu__link menu__link--1" href="#">Destinations</a>
           <a class="menu__link menu__link--3" href="#">Packages</a>
@@ -34,6 +31,9 @@
           <a class="menu__link menu__link--6" href="#">Awards</a>
           <a class="menu__link menu__link--7" href="#">News</a>
           </nav>
+      </header>
+      <section>
+        {{ content }}
       </section>
       <footer>
         <p><small> This is a footer</small></p>
