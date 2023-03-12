@@ -2,14 +2,6 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
 # Written Music
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
@@ -18,69 +10,20 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 | Preludes            | Score             | Recording | Date   |
 |:--------------------|:------------------|:----------|--------|
-| Prelude in Bb Major | good swedish fish | nice      |1/1/21  |
+| Prelude in Bb major | good swedish fish | nice      |1/1/21  |
+| Prelude in C minor  | good swedish fish | nice      |2/2/22  |
 
-### There's a horizontal rule below this.
+| Studies             | Score             | Recording | Date   |
+|:--------------------|:------------------|:----------|--------|
+| Study #1 in C minor | good swedish fish | nice      |1/1/21  |
+| Study #2 in C major | good swedish fish | nice      |2/2/22  |
+| Study #3 in F major | good swedish fish | nice      |3/3/23  |
+| Study #4 in D major | good swedish fish | nice      |4/4/24  |
 
 * * *
 
-### Here is an unordered list:
+### For Orchestra
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
-[back](./)
+| Symphonies          | Score             | Recording | Date   |
+|:--------------------|:------------------|:----------|--------|
+| Symphony #3         | good swedish fish | nice      |1/1/21  |
