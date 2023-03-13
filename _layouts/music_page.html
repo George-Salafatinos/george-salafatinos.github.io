@@ -20,7 +20,8 @@
    </style>
   </head>
   <body>
-    <iframe src="https://flat.io/embed/640b7fada1f37ac512976bef" height="450" width="100%" frameBorder="0" allowfullscreen allow="midi"></iframe>
+    <button onclick="displayIframe()">Click me</button>
+    <div id="iframeDisplay"></div> 
     <table>
       <tr>
         <th>Preludes</th>
@@ -46,5 +47,10 @@
       </tr>
     </table>
     {{content}}
+    <script>
+      function displayIframe() {
+          document.getElementById("iframeDisplay").innerHTML = <iframe src="https://flat.io/embed/640b7fada1f37ac512976bef" height="450" width="100%" frameBorder="0" allowfullscreen allow="midi"></iframe>;
+      }
+  </script>
   </body>
 </html>
