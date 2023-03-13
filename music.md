@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: music_page
 ---
 
 # Written Music

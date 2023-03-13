@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/x-icon" href="/assets/img/favicon.ico">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+    {% include head-custom.html %}
+
+    <style type="text/css">
+      table {border: 1px solid black;}
+      td {border: 1px solid black;}
+      th {border: 1px solid black;}
+   </style>
+  </head>
+  <body>
+    <iframe src="https://flat.io/embed/640b7fada1f37ac512976bef" height="450" width="100%" frameBorder="0" allowfullscreen allow="midi"></iframe>
+    <table>
+      <tr>
+        <th>Preludes</th>
+        <th>Score</th>
+        <th>Recording</th>
+        <th>Date</th>
+      </tr>
+      <tr>
+        <td>Prelude in Bb major</td>
+        <td>Score</td>
+        <td>Recording</td>
+        <td>12/12/2012</td>
+      </tr>
+      <tr>
+        <td>Centro comercial Moctezuma</td>
+        <td>Francisco Chang</td>
+        <td>Mexico</td>
+      </tr>
+      <tr>
+        <td>Centro comercial Moctezuma</td>
+        <td>Francisco Chang</td>
+        <td>Mexico</td>
+      </tr>
+    </table>
+    {{content}}
+  </body>
+</html>
