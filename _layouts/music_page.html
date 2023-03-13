@@ -22,8 +22,8 @@
   <body>
     <div id="iframeDisplay"></div> 
     <script>
-      function displayIframe() {
-          document.getElementById("iframeDisplay").innerHTML = "<iframe src='https://flat.io/embed/640b7fada1f37ac512976bef' height='450' width='100%'' frameBorder='0' allowfullscreen allow='midi'></iframe>";
+      function displayIframe(url) {
+          document.getElementById("iframeDisplay").innerHTML = "<iframe src='".concat(url, "' height='450' width='100%'' frameBorder='0' allowfullscreen allow='midi'></iframe>");
       }
   </script>
     <table>
@@ -34,7 +34,7 @@
         <th>Date</th>
       </tr>
       <tr>
-        <td> <a href = "javascript: displayIframe();" > Prelude in Bb major </a> </td>
+        <td> <a href = "javascript: displayIframe(https://flat.io/score/63b2162e33a94824be1122a5-prelude-in-bb-major);" > Prelude in Bb major </a> </td>
         <td>Score</td>
         <td>Recording</td>
         <td>12/12/2012</td>
