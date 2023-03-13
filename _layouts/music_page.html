@@ -20,12 +20,13 @@
    </style>
   </head>
   <body>
-    <div id="iframeDisplay"></div> 
-    <script>
-      function displayIframe(url) {
-          document.getElementById("iframeDisplay").innerHTML = "<iframe src=".concat(url, " height='450' width='100%'' frameBorder='0' allowfullscreen allow='midi'></iframe>");
+  <script>
+      function displayIframe(display_id, url) {
+          document.getElementById(display_id).innerHTML = "<iframe src=".concat(url, " height='450' width='100%'' frameBorder='0' allowfullscreen allow='midi'></iframe>");
       }
   </script>
+    <div id="preludes_display"></div> 
+
     <table>
       <tr>
         <th>Preludes</th>
@@ -33,7 +34,7 @@
         <th>Date</th>
       </tr>
       <tr>
-        <td> <a href = "javascript: displayIframe('https://flat.io/embed/63905f3e11a3c457fa1d516e');" > Prelude in Ab major </a> </td>
+        <td> <a href = "javascript: displayIframe('preludes_display', 'https://flat.io/embed/63905f3e11a3c457fa1d516e');" > Prelude in Ab major </a> </td>
         <td>Score</td>
         <td>12/2022</td>
       </tr>
