@@ -23,7 +23,7 @@
 
     <script>
       function displayIframe(display_id, url){
-          document.getElementById(display_id).innerHTML = "<iframe src=".concat(url, " height = '100%' width = '100%'></iframe>");
+          document.getElementById(display_id).innerHTML = "<iframe src=".concat(url, " sandbox='allow-same-origin' onload='this.style.height=(this.contentWindow.document.body.scrollHeight+20)+'px';'></iframe>");
           document.getElementById(display_id).style = "height:500px"
        }
     </script>
