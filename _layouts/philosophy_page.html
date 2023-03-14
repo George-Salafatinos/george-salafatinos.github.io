@@ -20,17 +20,17 @@
    </style>
   </head>
   <body>
-
+<!--          document.getElementById(display_id).style = "height:500px"-->
     <script>
       function displayIframe(display_id, url){
-          document.getElementById(display_id).innerHTML = "<iframe src=".concat(url, " sandbox='allow-same-origin' onload='this.style.height=(this.contentWindow.document.body.scrollHeight+20)+'px';'></iframe>");
-          document.getElementById(display_id).style = "height:500px"
+          document.getElementById(display_id).innerHTML = "<iframe src=".concat(url, "></iframe>");
+
        }
     </script>
     <h1> Philosophy (WIP) </h1>
 
 
-    <div id="philosophy_display" style = "width:550px"></div>
+    <div id="philosophy_display"></div>
 
   <table>
     <tr>
