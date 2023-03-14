@@ -22,7 +22,7 @@
 <!--          document.getElementById(display_id).style = "height:500px"-->
     <script>
       function displayIframe(display_id, url){
-          var doc_width = Math.min(screen.width, 760);
+          var doc_width = Math.min(.9*screen.width, 760);
           document.getElementById(display_id).innerHTML = "<iframe src=".concat(url, " height = '500' width = ", doc_width.toString(), " border = '3px solid black' border-bottom = '3px solid black'></iframe>");
 
        }
