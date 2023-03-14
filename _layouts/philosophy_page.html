@@ -23,8 +23,9 @@
 
     <script>
       function displayIframe(display_id, url){
-          document.getElementById(display_id).innerHTML = "<iframe src=".concat(url, " height = '100%' width = '100%' frameBorder='0' allowfullscreen></iframe>");
-      }
+          document.getElementById(display_id).innerHTML = "<iframe src=".concat(url, " height = '100%' width = '100%' frameBorder='1' allowfullscreen></iframe>");
+          document.getElementById(display_id).style = "height:500px"
+       }
     </script>
     <h1> Philosophy (WIP) </h1>
 
@@ -38,7 +39,7 @@
       <th>Date</th>
     </tr>
     <tr>
-      <td> <a href = "javascript: displayIframe('philosophy_display', 'https://docs.google.com/document/d/e/2PACX-1vTnS4SPhh5N7mxQ_cE6oZapWLlAqO4Nos3Kh7KateglGqkNJgPPlbnn3w3mV8LE0Q1NW1R_Im1Gl6ud/pub?embedded=true');" > Outline </a> </td>
+      <td> <a href = "javascript: displayIframe('philosophy_display', 'https://docs.google.com/document/d/e/2PACX-1vTnS4SPhh5N7mxQ_cE6oZapWLlAqO4Nos3Kh7KateglGqkNJgPPlbnn3w3mV8LE0Q1NW1R_Im1Gl6ud/pub?embedded=true&rm=full');" > Outline </a> </td>
       <td>Link</td>
       <td>1/2023</td>
     </tr>
