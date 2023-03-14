@@ -24,7 +24,7 @@
       function displayIframe(display_id, url){
           var doc_width = Math.min(.87*screen.width, 760);
           document.getElementById(display_id).innerHTML = "<iframe src=".concat(url, " height = '500' width = ", doc_width.toString(), " allowfullscreen='true'></iframe>");
-          document.getElementById(display_id).innerHTML.classList.remove("c1");
+          document.getElementById(display_id).classList.remove("c1");
        }
     </script>
     <h1> Philosophy (WIP) </h1>
