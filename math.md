@@ -1,0 +1,4 @@
+---
+layout: philosophy_page
+---
+
