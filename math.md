@@ -1,4 +1,4 @@
 ---
-layout: philosophy_page
+layout: math_page
 ---
 
