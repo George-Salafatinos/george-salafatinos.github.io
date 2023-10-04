@@ -1,4 +1,4 @@
 ---
-layout: Sums
+layout: sums
 ---
 

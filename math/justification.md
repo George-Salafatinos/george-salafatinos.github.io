@@ -1,4 +1,4 @@
 ---
-layout: Justification
+layout: justification
 ---
 
