@@ -1,124 +1,31 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
-  <head>
+<html lang="en">
+<head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="icon" type="image/x-icon" href="/assets/img/favicon.ico">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }} - {{ site.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+</head>
+<body>
+    <header>
+        <nav>
+            <a href="{{ '/' | relative_url }}" class="site-title">{{ site.title }}</a>
+            <div class="nav-links">
+                <a href="{{ '/work' | relative_url }}">Work</a>
+                <a href="{{ '/math' | relative_url }}">Math</a>
+                <a href="{{ '/philosophy' | relative_url }}">Philosophy</a>
+                <a href="{{ '/music' | relative_url }}">Music</a>
+                <a href="{{ '/about' | relative_url }}">About</a>
+            </div>
+        </nav>
+    </header>
 
+    <main>
+        {{ content }}
+    </main>
 
-    <style>
-      html,body{margin:0}
-      .topnav {
-        overflow: hidden;
-        background-color: #333;
-        margin:0px;
-      }
-
-      .topnav a {
-        float: left;
-        color: #f2f2f2;
-        text-align: center;
-        padding: 14px 16px;
-        text-decoration: none;
-        font-size: 17px;
-      }
-
-      .topnav a:hover {
-        background-color: #ddd;
-        color: black;
-      }
-
-      .topnav a.active {
-        background-color: #04AA6D;
-        color: white;
-      }
-
-
-
-
-      .icon {
-        margin-right: 10px;
-      }
-
-        .fa {
-          padding: 20px;
-          font-size: 30px;
-          width: 30px;
-          text-align: center;
-          text-decoration: none;
-          border-radius: 50%;
-          }
-
-        .fa:hover {
-          opacity: 0.7;
-        }
-
-        .fa-instagram {
-          background: #3B5998;
-          color: white;
-        }
-
-        .fa-twitter {
-          background: #55ACEE;
-          color: white;
-        }
-
-        .fa-linkedin {
-          background:#0072b1;
-          color: white;
-        }
-        .fa-github {
-          background:black;
-          color: white;
-        }
-
-        .wrapper {
-  margin-right: auto; /* 1 */
-  margin-left:  auto; /* 1 */
-
-  max-width: 960px; /* 2 */
-  overflow: hidden;
-  padding-right: 10px; /* 3 */
-  padding-left:  10px; /* 3 */
-}
-
-    </style>
-        <div class="topnav">
-          <a class="active" href="#home">Home</a>
-          <a href="math">Math</a>
-          <a href="philosophy">Philosophy</a>
-          <a href="music">Music</a>
-          <a href="contact">Contact</a>
-          <a href="about">About</a>
-        </div>
-  </head>
-  <body>
-
-    <div class="wrapper">
-      <header>
-        <h1>
-        {{ site.title | default: site.github.repository_name }}</h1>
-
-        {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" width = 25% height = 25% />
-        {% endif %}
-
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
-        <body>
-          <div style="display:flex;">
-            <a href="https://www.instagram.com/george_salafatinos/" class="fa fa-instagram"></a>
-            <a href="https://twitter.com/gsalafatinos" class="fa fa-twitter"></a>
-            <a href="https://www.linkedin.com/in/george-salafatinos-675662179/" class="fa fa-linkedin"></a>
-            <a href="https://github.com/George-Salafatinos" class="fa fa-github"></a>
-          </div>
-        </body>
-      </header>
-    </div>
-    <section>
-      {{ content }}
-    </section>
-    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
-  </body>
+    <footer>
+        <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}</p>
+    </footer>
+</body>
 </html>

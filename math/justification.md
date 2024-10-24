@@ -1,5 +1,0 @@
----
-layout: justification
----
-
-test
