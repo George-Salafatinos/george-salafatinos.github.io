@@ -1,0 +1,7 @@
+title: "George Salafatinos's Personal Website"
+description: "a site for documenting my contributions"
+baseurl: "george-salafatinos.github.io"
+url: "www.georgesalafatinos.com" # your site's full URL
+
+# Build settings
+markdown: kramdown
