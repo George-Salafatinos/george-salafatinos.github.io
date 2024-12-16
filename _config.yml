@@ -10,6 +10,6 @@ twitter_username: GSalafatinos
 github_username: George-salafatinos
 
 # Build settings
-theme: minima
+# theme: minima
 plugins:
   - jekyll-feed
