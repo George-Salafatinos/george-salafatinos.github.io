@@ -5,7 +5,7 @@ permalink: /music/
 ---
 
 <div class="music-container">
-    <h1>Musical Explorations</h1>
+    <h1>Music</h1>
     
     <div class="content-grid">
         {% for post in site.music %}
