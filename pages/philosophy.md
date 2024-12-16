@@ -5,7 +5,7 @@ permalink: /philosophy/
 ---
 
 <div class="philosophy-container">
-    <h1>Philosophical Writings</h1>
+    <h1>Philosophy</h1>
     
     <div class="content-grid">
         {% for post in site.philosophy %}
