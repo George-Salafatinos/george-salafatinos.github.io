@@ -4,4 +4,10 @@
 
 layout: default
 title: Home
+
+<div class="hero">
+    <img src="/assets/images/profile.jpg" alt="Profile Picture">
+    <h1>Welcome to my blog</h1>
+    <p>A space for thoughts on work, math, philosophy, and music.</p>
+</div>
 ---
