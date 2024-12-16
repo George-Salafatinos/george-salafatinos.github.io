@@ -9,7 +9,10 @@ url: "https://www.georgesalafatinos.com" # the base hostname & protocol for your
 twitter_username: GSalafatinos
 github_username: George-salafatinos
 
-# Build settings
-# theme: minima
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
 plugins:
   - jekyll-feed
