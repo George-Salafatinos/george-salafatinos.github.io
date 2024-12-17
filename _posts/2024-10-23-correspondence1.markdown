@@ -64,7 +64,7 @@ In March 2024, I wrote to David Chalmers via email:
 
 <p>    This framework seems to me a razor which classifies the majority of discourse of all kinds as epistemically aimless and clarifies which discourse is epistemically oriented at all, to what extent, and in what way. There is non-epistemic discourse, but I find it to be very helpful to be able to recognize the difference. I am aware of many nuances to this discussion, and I would be happy to elaborate them, but I am presenting it not as a bible of epistemology, but rather as an outline of sorts of a practical epistemic framework which may be detailed if necessary.</p>
 
-<p>      I would like to know if you think I am wasting my time.</p>
+<p>    I would like to know if you think I am wasting my time.</p>
 
 <p>Best,</p>
 <p>-George</p>
