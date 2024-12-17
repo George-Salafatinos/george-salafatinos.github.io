@@ -78,7 +78,6 @@ He responded promptly,
 
 <div class="email-container">
 <div class="email-header">
-<p><strong>Subject:</strong> Question About Epistemic Models</p>
 </div>
 
 <div class="email-body">
