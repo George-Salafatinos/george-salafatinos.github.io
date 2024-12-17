@@ -122,7 +122,7 @@ Chalmers:
 </div>
 </div>
 
-Perhaps more bluntly than he appreciated, I replied
+Perhaps more brashly than necessary, I replied
 
 <div class="email-container">
 <div class="email-header">
