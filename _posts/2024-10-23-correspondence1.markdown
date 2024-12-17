@@ -99,12 +99,49 @@ He responded promptly,
 
 <p>If you are interested in reading a few more lines, I will say</p>
 <p>1. The framework I presented doesn’t make either fatal mistake of the positivists/ayer that a. Language has objective truth values b. Language can be “meaningless.” Instead, it is a framework of responding to questions within language and context, and informs which questions given an intention have answers at all, how much, and in what way. “All swans are white,” for example, isn’t meaningless because to the extent you are obligated to respond at all, it has intention in its presentation. It may always have non-epistemic meaning. It has an answer insofar as it's reducible to a question about the state of the physical world. That is, we may interpret intentions such that they have feasibly approximated answers (you have seen only white living swans in your adult lifetime), or infeasibly approximated answers (all swans in the universe living right now are white). And those intentions are not per say definable by language (though one can approximate them linguistically) but rather approximations of an intention, or even perhaps completely fabricated. Perhaps I need to explain more, but I do not believe it has been refuted before. I would be happy to detail it fully (I am trying to be concise in emails) on a few examples if you are that skeptical.</p>
-<p>2. I just read through your paper </strong>Consciousness and the Collapse of the Wave Function</strong> and I think it very much needs this framework. The section devoted to the causal role of consciousness reveals essentially that productive work makes sense only within physicalism. You’ve written a paper within physicalism and simply drawn an equals sign between consciousness and something physical. Not only is this a vindication of physicalism, but it is also flawed, because as this epistemic framework suggests, one cannot draw equal signs from “consciousness” to something physical. One may only attempt to reduce questions involving the word to questions of physical phenomena. Certainly any understanding of any intention of the use of the term “consciousness” by humans cannot perfectly approximate a state of the physical world simply because humans cannot perfectly conceive of a state of the physical world, and language is simply a means of facilitating conception and human interaction. If we are truly concerned with a particular facet of what is meant by “consciousness” that is beyond a particular type of computation (which you seem very motivated by, and which I agree we should be motivated by), we should instead be explicating how these questions are reducible to states of the physical world, not quite explicitly how they are not. I could genuinely go on about this for hours but will try not to look so exhausting.</p>
+<p>2. I just read through your paper <strong>Consciousness and the Collapse of the Wave Function</strong> and I think it very much needs this framework. The section devoted to the causal role of consciousness reveals essentially that productive work makes sense only within physicalism. You’ve written a paper within physicalism and simply drawn an equals sign between consciousness and something physical. Not only is this a vindication of physicalism, but it is also flawed, because as this epistemic framework suggests, one cannot draw equal signs from “consciousness” to something physical. One may only attempt to reduce questions involving the word to questions of physical phenomena. Certainly any understanding of any intention of the use of the term “consciousness” by humans cannot perfectly approximate a state of the physical world simply because humans cannot perfectly conceive of a state of the physical world, and language is simply a means of facilitating conception and human interaction. If we are truly concerned with a particular facet of what is meant by “consciousness” that is beyond a particular type of computation (which you seem very motivated by, and which I agree we should be motivated by), we should instead be explicating how these questions are reducible to states of the physical world, not quite explicitly how they are not. I could genuinely go on about this for hours but will try not to look so exhausting.</p>
 
 <p>Best,</p>
 <p>-George</p>
 
 
+</div>
+</div>
+
+
+Chalmers:
+
+<div class="email-container">
+<div class="email-header">
+</div>
+
+<div class="email-body">
+<p>1, positivists believed in noncognitive meaning. 2. wrong paper -- try "consciousness and its place in nature".</p>
+
 
 </div>
 </div>
+
+Perhaps more bluntly than he appreciated, I replied
+
+<div class="email-container">
+<div class="email-header">
+</div>
+
+<div class="email-body">
+<p>Hi Professor Chalmers,</p>
+<p>First, I want to say that it is an excellent paper and a pleasure to read. The above framework is indeed one of type A materialism in any practical sense of epistemology.</p>
+
+<p>Despite the comprehensive argument summaries, let’s be honest and say that your main objection appears to be that denying the existence of consciousness is “denying the manifest.” I gather this, because, while I will respond to this objection, barring dismissal, one may very cleanly resolve all of the pro-dualist arguments by nullifying epistemic gaps in principle. Thus, while most difficult to explain, this objection is the point at which the entire rejection of materialism rests. If you do not believe that consequence would be so clean, I believe I could explain it simply.</p>
+<p>I respond to this objection by saying that in terms of what is “manifest,” no right mind denies that humans experience and possess subjective interpretations of the world. I certainly do not.  There is a difference between the fact that you experience and the supposed reality of what you experience, including any purported fundamentally “subjective” nature of that experience or whatever jumble or words one would summon to describe qualia. Consider the sensation of the heat from a fire. There is of course the heat physically, and separately there is our reaction to it within our bodies and minds. The same must be said of consciousness in any description. It exists to some extent, but any internal construction of it does not. I don't understand how that distinction is uncharitable to our own subjectivity. It seems like hubris to expect it to be anything other than a tool to approximate the world and direct your human agent.</p>
+<p>The standard for your remaining objections seems to be that consciousness as a phenomenon in and of itself requires a physical explanation under physicalism. This is a misguided and asymmetric requirement, as it suffices to speak about a physical explanation of fire without a physical explanation of fire as a pure phenomenon. Physical processes explain the source of the phenomenon of fire, including the ways it comes to influence our senses, but not the phenomenon in and of itself. The same must be said of the phenomenon of consciousness. Indeed, any meta-awareness of our internal workings are phenomena of phenomenon and may be subject to the same reductions.  Physical processes may explain the source of this impression but expecting them to explain it as a phenomenon in and of itself is unprecedented. This requirement seems like a misunderstanding of what materialism posits in the first place, frankly.</p>
+<p>Constructively speaking, I think there are many benefits to using the above framework. Indeed, it eliminates “hard problems,” though I almost get the sense you want there to be one. I think these benefits are across discourse, life, science, policy, ethics, etc. and I would be happy to elaborate them.</p>
+
+
+<p>Best,</p>
+<p>-George</p>
+
+
+</div>
+</div>
+
