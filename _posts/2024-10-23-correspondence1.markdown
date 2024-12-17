@@ -2,7 +2,7 @@
 layout: post
 title:  "I tried to explaining to David Chalmers why he is wasting his time"
 date:   2024-12-16 18:06:59 +0000
-categories: jekyll update
+categories: philosophy
 ---
 In March 2024, I wrote to David Chalmers via email
 
