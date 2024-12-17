@@ -17,7 +17,7 @@ In March 2024, I wrote to David Chalmers via email:
 <p>    Pardon me.</p>
 <p>    I want to know if you find the following epistemic model sound. I am a Mathematics student at the University of Chicago. While I am not well studied in philosophy (though I do know who you are), I can’t stop myself from thinking about Physicalism, which I have thought about a great deal and will only touch on a small bit in this email. Please put me to rest and explain why I should give up thinking about this altogether, so I may move on with my life.</p>
 
-<p>      Consider a question. And suppose we choose to respond to it. It may be viewed as</p>
+<p>    Consider a question. And suppose we choose to respond to it. It may be viewed as</p>
 <p>-An epistemic question, in the sense that it is truth-seeking</p>
 <p>-A non-epistemic question, in the sense that it is not truth-seeking (usually, rather, in order to manipulate people, communicate, associate, etc.)</p>
 <p>-Perhaps several implicit questions at once of various types</p>
