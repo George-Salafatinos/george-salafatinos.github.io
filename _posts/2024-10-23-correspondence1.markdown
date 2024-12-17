@@ -86,3 +86,25 @@ He responded promptly,
 
 </div>
 </div>
+
+<div class="email-container">
+<div class="email-header">
+</div>
+
+<div class="email-body">
+<p>Hi Professor Chalmers,</p>
+
+<p>I appreciate taking the time to respond much more than you might imagine! I believe I could convince you otherwise, however. If you are interested in reading but only one more line, I would simply ask, hypothetically, if anything at all:</p>
+<p>What could be provided that would convince you otherwise? Say, perhaps a proof, a scientific study, a letter from Daniel Dennet etc.</p>
+
+<p>If you are interested in reading a few more lines, I will say</p>
+<p>1. The framework I presented doesn’t make either fatal mistake of the positivists/ayer that a. Language has objective truth values b. Language can be “meaningless.” Instead, it is a framework of responding to questions within language and context, and informs which questions given an intention have answers at all, how much, and in what way. “All swans are white,” for example, isn’t meaningless because to the extent you are obligated to respond at all, it has intention in its presentation. It may always have non-epistemic meaning. It has an answer insofar as it's reducible to a question about the state of the physical world. That is, we may interpret intentions such that they have feasibly approximated answers (you have seen only white living swans in your adult lifetime), or infeasibly approximated answers (all swans in the universe living right now are white). And those intentions are not per say definable by language (though one can approximate them linguistically) but rather approximations of an intention, or even perhaps completely fabricated. Perhaps I need to explain more, but I do not believe it has been refuted before. I would be happy to detail it fully (I am trying to be concise in emails) on a few examples if you are that skeptical.</p>
+<p>2. I just read through your paper </strong>Consciousness and the Collapse of the Wave Function</strong> and I think it very much needs this framework. The section devoted to the causal role of consciousness reveals essentially that productive work makes sense only within physicalism. You’ve written a paper within physicalism and simply drawn an equals sign between consciousness and something physical. Not only is this a vindication of physicalism, but it is also flawed, because as this epistemic framework suggests, one cannot draw equal signs from “consciousness” to something physical. One may only attempt to reduce questions involving the word to questions of physical phenomena. Certainly any understanding of any intention of the use of the term “consciousness” by humans cannot perfectly approximate a state of the physical world simply because humans cannot perfectly conceive of a state of the physical world, and language is simply a means of facilitating conception and human interaction. If we are truly concerned with a particular facet of what is meant by “consciousness” that is beyond a particular type of computation (which you seem very motivated by, and which I agree we should be motivated by), we should instead be explicating how these questions are reducible to states of the physical world, not quite explicitly how they are not. I could genuinely go on about this for hours but will try not to look so exhausting.</p>
+
+<p>Best,</p>
+<p>-George</p>
+
+
+
+</div>
+</div>
