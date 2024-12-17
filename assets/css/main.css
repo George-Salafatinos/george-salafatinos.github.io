@@ -226,6 +226,10 @@ footer {
 }
 
 .email-body {
-    line-height: 1.6;
-    white-space: pre-wrap;
+    line-height: 1.8;  /* Increased from 1.6 */
+    white-space: normal;  /* Changed from pre-wrap */
+}
+
+.email-body p {
+    margin-bottom: 1rem;  /* Add spacing between paragraphs */
 }
