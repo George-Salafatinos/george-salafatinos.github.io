@@ -4,7 +4,7 @@ title:  "I tried to explaining to David Chalmers why he is wasting his time"
 date:   2024-12-16 18:06:59 +0000
 categories: jekyll update
 ---
-In March 2024, I wrote to David Chalmers via email:
+In March 2024, I wrote to David Chalmers via email
 
 <div class="email-container">
 <div class="email-header">
@@ -69,6 +69,20 @@ In March 2024, I wrote to David Chalmers via email:
 <p>Best,</p>
 <p>-George</p>
 
+
+
+</div>
+</div>
+
+He responded promptly,
+
+<div class="email-container">
+<div class="email-header">
+<p><strong>Subject:</strong> Question About Epistemic Models</p>
+</div>
+
+<div class="email-body">
+<p>this view was popular among the logical positivists/empiricists in the 1930s.  a.j. ayer's "language truth and logic" is a good introduction.  the expression "noncognitive" is sometimes used for your "nonepistemic" class.  i wouldn't privilege the physical world as you do in this framework, though.</p>
 
 
 </div>
