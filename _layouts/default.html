@@ -11,10 +11,7 @@
         <nav>
             <a href="{{ '/' | relative_url }}" class="site-title">{{ site.title }}</a>
             <div class="nav-links">
-                <a href="{{ '/work' | relative_url }}">Work</a>
-                <a href="{{ '/math' | relative_url }}">Math</a>
-                <a href="{{ '/philosophy' | relative_url }}">Philosophy</a>
-                <a href="{{ '/music' | relative_url }}">Music</a>
+                <a href="{{ '/' | relative_url }}">Home</a>
                 <a href="{{ '/about' | relative_url }}">About</a>
             </div>
         </nav>
@@ -25,6 +22,12 @@
     </main>
 
     <footer>
+        <div class="social-links">
+            <a href="https://x.com/{{ site.twitter_username }}">Twitter/X</a>
+            <a href="https://github.com/{{ site.github_username }}">GitHub</a>
+            {% if site.linkedin_url %}<a href="{{ site.linkedin_url }}">LinkedIn</a>{% endif %}
+            {% if site.flatio_url %}<a href="{{ site.flatio_url }}">Flat.io</a>{% endif %}
+        </div>
         <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}</p>
     </footer>
 </body>

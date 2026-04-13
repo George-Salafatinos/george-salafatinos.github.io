@@ -8,37 +8,22 @@ title: Home
     <p>Hello, I'm George. I like to work on interesting problems. This is where I share my thoughts and work.</p>
 </div>
 
-<div class="content-grid">
-    <div class="content-card">
-        <h2>Latest Work</h2>
-        <p>Projects and technical writings.</p>
-        <a href="/work">Browse projects →</a>
-    </div>
-    
-    <div class="content-card">
-        <h2>Mathematics</h2>
-        <p>Explorations in mathematics and theoretical computer science.</p>
-        <a href="/math">Read more →</a>
-    </div>
-    
-    <div class="content-card">
-        <h2>Philosophy</h2>
-        <p>Thoughts on philosophy, science, and technology.</p>
-        <a href="/philosophy">Read more →</a>
-    </div>
-</div>
-
-<div class="recent-posts">
-    <h2>Recent Posts</h2>
-    <ul class="post-list">
-        {% for post in site.posts limit:5 %}
-        <li>
-            <span class="post-date">{{ post.date | date: "%B %d, %Y" }}</span>
-            <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-            {% if post.description %}
-            <p>{{ post.description }}</p>
-            {% endif %}
-        </li>
-        {% endfor %}
-    </ul>
+<div class="post-stream">
+    {% for post in site.posts %}
+    <article class="post-entry">
+        <span class="post-date">{{ post.date | date: "%B %d, %Y" }}</span>
+        {% if post.link %}
+        <h2><a href="{{ post.link }}">{{ post.title }} ↗</a></h2>
+        {% elsif post.stub %}
+        <h2>{{ post.title }}</h2>
+        {% else %}
+        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+        {% endif %}
+        {% if post.description %}
+        <p class="post-description">{{ post.description }}</p>
+        {% elsif post.stub != true and post.link == nil %}
+        <p class="post-description">{{ post.excerpt | strip_html | truncate: 200 }}</p>
+        {% endif %}
+    </article>
+    {% endfor %}
 </div>
