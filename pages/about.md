@@ -12,7 +12,7 @@ permalink: /about/
 
     <div class="about-content">
         <p>
-            I'm interested in the science of research agents and inference-time scaling and work as a scientist at Google Research. I was born and raised in the Chicago metro, where I got my undergrad degree in mathematics and computer science from the University of Chicago. In my spare time I love writing, playing, and listening to Classical music, reading, and studying history and philosophy.
+            I'm interested in the science of research agents and inference-time scaling and work as a scientist at Google Research based in San Francisco. I was born and raised in the Chicago metro, where I got my undergrad degree in mathematics and computer science from the University of Chicago. In my spare time I love writing, playing, and listening to Classical music, reading, and studying history and philosophy.
         </p>
 
         <section class="social-links-section">
